@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelegant_tw_docs=self.webpackChunkelegant_tw_docs||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"release","permalink":"/blog/tags/release","count":1},{"label":"open source","permalink":"/blog/tags/open-source","count":1},{"label":"announcement","permalink":"/blog/tags/announcement","count":1}]')}}]);

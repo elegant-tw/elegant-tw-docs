@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>言雅 Elegant TW 說明文件 Blog</title>
+        <link>https://docs.elegant.tw/blog</link>
+        <description>言雅 Elegant TW 說明文件 Blog</description>
+        <lastBuildDate>Sun, 07 May 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hant</language>
+        <copyright>Copyright © 2023 Elegant TW.</copyright>
+        <item>
+            <title><![CDATA[《言雅》發布串接 API 說明網站]]></title>
+            <link>https://docs.elegant.tw/blog/elegant-tw-docs-release</link>
+            <guid>https://docs.elegant.tw/blog/elegant-tw-docs-release</guid>
+            <pubDate>Sun, 07 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[《言雅》開發到今天，終於釋出開發者文件啦！教大家如何跟系統串接 API。]]></description>
+            <content:encoded><![CDATA[<p>《言雅》開發到今天，終於釋出開發者文件啦！教大家如何跟系統串接 API。</p><p>同時《言雅》發布 v0.2.0 版本，新增「毒雞湯」功能，以後端設計來說，這分類預設不會顯示在回傳的語錄上，除非使用者打上字串 <code>/all</code> 才會被隨機選擇到，詳情內容請參考<a href="/docs/sentences-api/how-to-use">語錄 API 介面 &gt; 如何使用</a>。</p><p>未來更新的部分會發布在這裡，歡迎點擊上方欄位的 RSS feed 追蹤，也可以點進 GitHub 頁面按下 Follow，我們下一篇文章見！</p>]]></content:encoded>
+            <author>contact@elegant.tw (Jerry Yang)</author>
+            <category>release</category>
+            <category>open source</category>
+            <category>announcement</category>
+        </item>
+    </channel>
+</rss>
